@@ -93,21 +93,19 @@ To run the React projects, follow these steps:
    npm install
    npm start
 
-###Backend Projects
+### Backend Projects
 
 For backend projects, follow these steps:
 
 1.Clone the repository or download the project files.
 2.Navigate to the backend project folder.
 3.Install the required dependencies by running:
-    ``bash
+
     npm install
     Run the server with:
     node app.js
 
 
-
+###Folder Structure
 ```bash
-
-## Folder Structure
 webdev/ ├── hcjs/ │ ├── Dictionary │ ├── Spotify-Clone │ ├── currency-converter-for-react │ ├── Plan-With-Love-main │ ├── blogswithappcontext │ ├── ecomwithredux │ ├── form │ ├── router │ ├── sankalp │ ├── testimonials │ ├── topcourses │ └── README.md │ ├── react/ │ ├── Auth │ ├── blogs │ ├── sankalp │ ├── todo │ └── upload │ └── backend/ ├── Auth ├── web-dev-proj ├── blogs ├── snake-game ├── tic-tac-toe └── README.md
